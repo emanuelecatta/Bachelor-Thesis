@@ -1,7 +1,7 @@
 # Bachelor-Thesis
 Bachelor thesis: Gauge invariance and the string action, done in academic year 2024/25.
 
-INTRO
+INTRODUCTION
 String theories represent one of the most current attempts to unify the four fundamental interactions
 in a single system [1]: the electromagnetic, weak and strong interactions, formalised by quantum field
 theories, together with gravity, which we describe through general relativity, a classical field theory.
